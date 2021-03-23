@@ -1,0 +1,29 @@
+
+body{
+    background: #333;
+    color: rgb(235, 244, 252);
+    font-size: larger;
+}
+.container{
+    width: 100%;
+    align-items: center;
+}
+.sub-container{
+    width: 380px;
+    background-color: rgb(226, 141, 13);
+    padding: 10px 30px 15px;
+    border:3px solid #000; 
+    margin: 100px auto 0;
+}
+input{
+    width:370px;
+    height: 40px;
+    border-radius: 8px;
+    
+}
+#grams, #kilograms, #ounces{
+    background: green;
+    height: 100px;
+    text-align: center;
+    border-radius: 13px;
+}
